@@ -6,6 +6,6 @@ public class HelloHuzaima {
         System.out.println("Hello, World!");
         System.out.println("Name: " + name);
         System.out.println("Roll No: " + rollNo);
-        System.out.println("thanks");
+        System.out.println("thanks, goodbye");
     }
 }
